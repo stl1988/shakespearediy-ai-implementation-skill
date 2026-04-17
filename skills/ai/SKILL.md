@@ -11,7 +11,7 @@ If, and only if, the user asks to implement or add AI in his app, or to fix AI i
 
 For text chat or generation, implement support for OpenAI compatible APIs. Authentication can be an API key or NIP-98.
 
-For image or video generation, implement fal.ai by installing the fal.ai javascript library. Always let the user add their own model paths and save themfor further usage so that the user doesn't have to reinput them when switching between models.
+For image or video generation, implement fal.ai by installing the fal.ai javascript library. Always let the user add their own model paths and save them for further usage so that the user doesn't have to reinput them when switching between models.
 
 ## Special cases
 
