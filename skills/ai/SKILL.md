@@ -9,9 +9,11 @@ description: Implement AI in your project
 
 If, and only if, the user asks to implement or add AI in his app, or to fix AI implementation in his app, do the following:
 
-For text chat or generation, implement support for OpenAI compatible APIs. Authentication can be an API key or NIP-98.
+For text chat or generation, implement support for any OpenAI compatible API. Authentication can be an API key or NIP-98. Sort models alphabetically.
 
 For image or video generation, implement fal.ai by installing the fal.ai javascript library. Always let the user add their own model paths and save them for further usage so that the user doesn't have to reinput them when switching between models.
+
+Always add a setting page where the user can set up APIs and models.
 
 ## Special cases
 
